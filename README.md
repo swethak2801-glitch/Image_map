@@ -23,7 +23,8 @@ Write HTML programs for all the regions identified.
 Execute the programs and publish them.
 
 # CODE
-```<html>
+```
+<html>
     <body>
         <h1>VELLORE</h1>
         <h2>SWETHA K (25014909)</h2>
@@ -38,85 +39,95 @@ Execute the programs and publish them.
 </map>
 </body>
 </html>
-
-fort.html
-
 <html>
-    <body bgcolor="cyan">
+       <body bgcolor="#e0f7fa"></body>
         <h1>VELLORE</h1>
-        <h3> Vellore Fort </h3>
+        <h3> Balamathy Temple</h3>
+                <div style="text-align: center;">
+            <img src="image copy.png" usemap="#image copy.png" style="width: 600px;">
+        </div>
+      <p>
+        <b>
+       Balamathi Temple, also known as Balamurugan Temple, is situated atop the scenic Balamathi Hills near Vellore in Tamil Nadu. Dedicated to Lord Murugan, the Hindu god of war and wisdom, this temple is a revered spiritual destination for devotees. The temple showcases traditional South Indian Dravidian architecture, featuring intricate carvings and a grand golden archway at its entrance. Nestled amidst lush greenery, the temple offers a tranquil atmosphere along with panoramic views of the surrounding landscape. It is especially popular during festivals like Thaipusam and Skanda Sashti, which draw numerous pilgrims every year. Accessible by road via winding hilly paths, Balamathi Temple provides visitors not only a place for worship but also a refreshing escape into nature’s beauty.   
+        </b>
+         </p>  
+    </body>
+</html>
+html>
+    <body bgcolor="#ffe5b4">
+        <h1>VELLORE</h1>
+        <p>
+        <div class="centered-text">Vellore Fort</div>
+    </p>
+        
+        <div style="text-align: center;">
+            <img src="Screenshot 2025-10-05 100430.png" usemap="#Screenshot 2025-10-05 100430.png" style="width: 600px;">
+        </div>
+
 <p>
-    vellore fort was built in the 16th centuary CE under the Vijayanagara Empire
+    <b>Vellore Fort, located in Vellore, Tamil Nadu, is a remarkable historical monument built around 1566 CE by Chinna Bommi Nayaka and Thimma Reddy Nayaka under the Vijayanagara Empire. Known for its impressive granite construction, the fort is famous for its massive walls, wide moat (once filled with crocodiles), and strong defensive architecture. Over the centuries, it changed hands from the Vijayanagara rulers to the Bijapur Sultans, Marathas, Mughals, and finally the British. It holds immense historical significance, especially as the site of the Vellore Mutiny of 1806, one of the earliest uprisings against British rule in India. A unique aspect of the fort is its religious diversity—it houses the Jalakanteswarar Temple (a fine example of Dravidian architecture), a mosque built by the Arcot Nawabs, and St. John’s Church built during British rule. Today, Vellore Fort stands as a symbol of India's rich cultural heritage, drawing tourists for its historical importance, architectural brilliance, and the peaceful coexistence of different religious structures within its walls.</b>
+    
 </p>
     </body>
 </html>
 
-airport.html
-
 <html>
-    <body bgcolor="green">
-        <h1>VERLLORE</h1>
-        <h3>Vellore Airport</h3>
-        <p>
-            Vellore Airport, located in the Vellore district of Tamil Nadu, India, is a regional civil airport that is poised to play a significant role in the economic and social development of the region.
-        </p>
-    </body>
-</html>
-
-golden.html
-
-<html>
-    <body bgcolor="pink">
+       <body bgcolor="#fafad2"></body>
        <h1>VELLORE</h1>
        <h3> Golden Temple</h3>
+               <div style="text-align: center;">
+            <img src="image copy 2.png" usemap="#image copy 2.png" style="width: 600px;">
+        </div>
         <p>
-            The crown of Sri Lakshmi Golden Temple is called Vimanam  or Ardha Mandapam . This crown is one of the biggest temple crown in the history of architecture.The temple with its gold (1500 kg) covering, has intricate work done by artisans specialising in temple art using gold.
+          <b> 
+            The Golden Temple is a stunning religious monument known for its magnificent gold-plated exterior and intricate architectural design. Serving as a prominent place of worship and pilgrimage, the temple attracts visitors from all over who come to admire its beauty and spiritual significance. The gleaming gold surfaces reflect sunlight, creating a breathtaking sight that symbolizes purity, peace, and devotion. Inside, the temple houses sacred shrines and beautifully decorated interiors that enhance the spiritual atmosphere. The Golden Temple in Paragahro stands not only as a religious landmark but also as a testament to exquisite craftsmanship and cultural heritage.
+          </b>
         </p>
+            <html>
+    <body bgcolor="#ffe6e6">
+        <h1>VELLORE</h1>
+        <p>
+        <div class="centered-text">Vellore Airport</div>
+    </p>
+        
+        <div style="text-align: center;">
+            <img src="image.png" usemap="#image.png" style="width: 600px;">
+        </div>
+
+<p>     <b>Vellore Airport is a small domestic airport located near Abdullapuram, about 5 kilometers from Vellore city in Tamil Nadu. Originally built in the 1930s by the British, the airport has been under development in recent years as part of the Indian government’s UDAN (Ude Desh ka Aam Nagrik) regional connectivity scheme. Once operational, Vellore Airport is expected to improve air travel accessibility for residents of Vellore and nearby districts, reducing the dependency on larger airports in Chennai or Bengaluru. The airport is primarily intended to handle small aircraft for short-haul regional flights. With the growing demand for faster travel and economic development in the region, the airport holds potential to boost tourism, healthcare travel (especially to Vellore's famous CMC Hospital), and business connectivity.</b> 
+           
+</p>
     </body>
 </html>
-
-sajra.html
-
 <html>
-    <body bgcolor="blue">
+    <body bgcolor="#dfffe0">
         <h1>VELLORE</h1>
         <h3>Sajra Fort</h3>
+                <div style="text-align: center;">
+            <img src="Screenshot 2025-10-05 104955.png" usemap="#Screenshot 2025-10-05 104955.png" style="width: 600px;">
+        </div>
         <p>
-            Chhatrapati Shivaji Maharaj deputed his Sardar Sabnis Narhari Rudra with 2000 cavalry and 5000 infantry to continue the siege which lasted fourteen months. He built two small forts, Sajra and Gojra on the hill top which is nearly 2 km from the Vellore Fort.
+            <b>
+            Sajira is a small, peaceful locality in Vellore known for its friendly community and serene environment. Nestled close to the bustling parts of the city, Sajira offers a quiet retreat with lush greenery and clean surroundings. The area has seen steady development over the years, with schools, shops, and temples serving the local residents. It is a great example of how traditional living blends with modern amenities in Vellore. Visitors often appreciate the calm and welcoming atmosphere that Sajira provides away from the city's hustle.
         </p>
+    </b>
     </body>
-</html>
-
-balamathi.html
-
-<html>
-    <body bgcolor="yellow">
-        <h1>VELLORE</h1>
-        <h3> Balamathy Temple</h3>
-      <p>
-        Balamathy temple is perched atop a hill and offers panoramic views of the surrounding landscape. The temple, dedicated to Lord Murugan, was built in the 14th century and is famous for its Dravidian style architecture and the giant statue of Lord Murugan.
-      </p>  
-    </body>
-</html>
+</html
 ```
 # OUTPUT
 
+<img width="1019" height="606" alt="Screenshot 2025-10-05 110302" src="https://github.com/user-attachments/assets/fdf89272-6426-4e41-b7a6-020849692164" />
+
+<img width="1187" height="834" alt="Screenshot 2025-10-05 111748" src="https://github.com/user-attachments/assets/d053f334-9113-4430-a1b9-093c756ae9a7" />
+<img width="1184" height="799" alt="Screenshot 2025-10-05 111514" src="https://github.com/user-attachments/assets/611f7645-c6d1-4ac5-bbab-3501f1226119" />
+
+<img width="1177" height="811" alt="Screenshot 2025-10-05 113827" src="https://github.com/user-attachments/assets/faf34e4e-d93b-4de0-958e-d6ccc773a276" />
 
 
 
 
 
-
-<img width="809" height="410" alt="map" src="https://github.com/user-attachments/assets/34102ff0-0efc-46e2-b72f-d1d13f15a84e" />
-
-
-
-
-
-
-<img width="1135" height="463" alt="Screenshot 2025-09-29 223747" src="https://github.com/user-attachments/assets/5b6bf979-c231-4ad0-8c2b-87d341adbb79" />
-
-
+<img width="1186" height="803" alt="Screenshot 2025-10-05 111602" src="https://github.com/user-attachments/assets/ebe236d1-5dbc-44dc-8cba-1c78cdc82ebf" />
 
 
 
@@ -127,35 +138,8 @@ balamathi.html
 
 
 
-<img width="1178" height="625" alt="Screenshot 2025-09-29 223841" src="https://github.com/user-attachments/assets/1032c16f-289a-4347-a165-42953c744b2c" />
 
 
-
-
-
-
-
-
-
-<img width="857" height="549" alt="Screenshot 2025-09-29 223921" src="https://github.com/user-attachments/assets/874da19d-3b50-4f07-9506-2228c4373999" />
-
-
-
-
-
-
-
-
-
-<img width="1183" height="728" alt="Screenshot 2025-09-29 223948" src="https://github.com/user-attachments/assets/9b406674-6b0c-442f-bde5-3068a7dc91d3" />
-
-
-
-
-
-
-
-<img width="1159" height="584" alt="Screenshot 2025-09-29 224009" src="https://github.com/user-attachments/assets/8887f595-368e-486c-b6c9-b95252d3e4de" />
 
 
 
